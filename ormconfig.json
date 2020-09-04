@@ -1,6 +1,6 @@
 {
   "type": "mssql",
-  "host": "INFOSISTEMAS066",
+  "host": "",
   "username": "sa",
   "password": "Brasil123",
   "database": "gobuddy",
