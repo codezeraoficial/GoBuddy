@@ -1,1 +1,1 @@
-# GoBuddy
+# Open season
